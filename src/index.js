@@ -1,4 +1,5 @@
-import './css/styles.css';
+import '../src/css/styles.css';
+// styles.css
 
 const DEBOUNCE_DELAY = 300;
 
